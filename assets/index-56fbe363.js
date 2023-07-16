@@ -120,7 +120,7 @@ Error generating stack: `+o.message+`
     outline: none;
     padding: 1rem;
     font-weight: bold;
-    font-family: "Public Sans", sans-serif;
+    font-family: "Inter", sans-serif;
 `,F1=R.button`
     width: max-content;
     background-color: ${L.btns};
