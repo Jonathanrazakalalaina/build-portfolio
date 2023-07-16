@@ -66,7 +66,7 @@ Error generating stack: `+o.message+`
 
     @media screen and (max-width:875px) {
         flex-direction: column;
-        padding: 5rem 1.2rem 0 1.2rem;
+        padding: 5rem 1.2rem 0 1.5rem;
     }
 `,O1=R.div`
     display: flex;
@@ -420,7 +420,7 @@ Error generating stack: `+o.message+`
     gap: 1.5rem;
     padding: 5rem;
     @media screen and (max-width: 768px) {
-        padding: 5rem 1rem;
+        padding: 5rem 2.5rem;
     }
 `,Av=R.div`
     display: flex;
